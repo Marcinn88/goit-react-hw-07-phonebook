@@ -17,11 +17,6 @@ export const ContactNumber = styled.span`
 `;
 
 export const Button = styled.button`
-  > svg {
-  width:30px;
-  height:20px;
-}
-  /* padding: 5px 20px; */
   margin-left: 20px;  
   font-size: 14px;
   border-radius: 6px;
